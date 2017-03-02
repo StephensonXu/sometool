@@ -1,0 +1,112 @@
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormMain.resources
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.Properties.Resources.resources
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp.WinForm\bin\Debug\AppContainer.bmp
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\AppContainer.bmp
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormMain.resources
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.Properties.Resources.resources
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\AppContainer.bmp
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormMain.resources
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.Properties.Resources.resources
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\AppContainer.bmp
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormMain.resources
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.Properties.Resources.resources
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormHandle.resources
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\bin\Debug\AppContainer.bmp
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.exe
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormHandle.resources
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormMain.resources
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.Properties.Resources.resources
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.exe
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\AppContainer.bmp
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.exe
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.dll
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.pdb
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormHandle.resources
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormMain.resources
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.Properties.Resources.resources
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.exe
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\AppContainer.bmp
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.exe
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.dll
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.pdb
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormHandle.resources
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormMain.resources
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.Properties.Resources.resources
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.exe
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\AppContainer.bmp
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.exe
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.pdb
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormHandle.resources
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormMain.resources
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.Properties.Resources.resources
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.csproj.GenerateResource.Cache
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.exe
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\AppContainer.bmp
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.exe
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.WinForm.pdb
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\bin\Debug\SmileWei.EmbeddedApp.pdb
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormHandle.resources
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.FormMain.resources
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.Properties.Resources.resources
+C:\Users\Frank\Desktop\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp.WinForm\obj\x86\Debug\SmileWei.EmbeddedApp.WinForm.csproj.GenerateResource.Cache
